@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="89c03224-a82f-40e6-aaa4-eb3f74a799b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.json.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +59,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abhishek\WebstormProjects\jsm_mock_interview_platform\app" />
+      <recent name="C:\Users\abhishek\WebstormProjects\jsm_mock_interview_platform\public" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
@@ -85,7 +97,7 @@
       <workItem from="1773246758201" duration="3657000" />
       <workItem from="1773252949639" duration="138000" />
       <workItem from="1773377130916" duration="492000" />
-      <workItem from="1773464552368" duration="1398000" />
+      <workItem from="1773464552368" duration="3736000" />
     </task>
     <servers />
   </component>
